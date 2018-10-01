@@ -1,0 +1,2 @@
+# WCPC
+https://etherscan.io/token/0x699572E9FFd12D5529Dc3883a9F1EBAe264AAA9C
